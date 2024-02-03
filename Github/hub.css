@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.wot{
+	background-color: seagreen;
+	height: 50vh;
+	display: flex;
+	justify-content: center;
+}
+.aw{
+     padding: 100px;
+     text-align: center;
+     font-size: 1rem;
+     font-family: sans-serif;
+     color: white;
+}
+.mn{
+	font-size: 1.5rem;
+	font-family: sans-serif;
+	margin-bottom: 12px;
+}
+#oo{
+	padding: 10px 100px;
+	margin: 12px;
+	border-width: 1px solid grey;
+	border-radius: 4px;
+}
+
+.tot{
+	background-color: milk;
+	height: 50vh;
+	display: flex;
+	justify-content: center;
+}
+.um{
+	text-align: center;
+}
+.tt{
+	font-size: 1.8rem;
+	color: green;
+	margin: 12px;
+}
+#if{
+	font-family: serif;
+	font-size: 1.2rem;
+	color: blue;
+	margin-bottom: 30px;
+}
+.ok{
+	text-indent: -40px;
+	margin-top: 8px;
+
+}
+hr{
+	color: skyblue;
+}
